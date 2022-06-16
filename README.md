@@ -23,3 +23,13 @@ Here you can see some screenshots:
 ![Shader_5](https://user-images.githubusercontent.com/107591581/173961886-87c0c949-b2f4-4e21-8c81-193863051101.png)
 ---
 ![Shader_3](https://user-images.githubusercontent.com/107591581/173961882-305f1b5f-6e71-4c15-b7b6-d2c63bdfe88a.png)
+
+## Tasks currently under development
+
+- User registration and login
+- Import shaders from shadertoy to the Kusanagi Shader Editor by pasting a link
+- Shader registry:
+  - Upload shaders to the registry
+  - Download shaders from the registry
+  - UI for navigating the uploaded shaders
+- Import cubemaps
