@@ -5,6 +5,9 @@ I aim to create an editor that attracts people to use it and, hopefully, we can 
 
 Right now, what it is capable of is:
 
+- Login and register new users.
+- Upload your shaders and share them with the other users!
+- Download other's shaders.
 - Create/delete shaders through the UI.
 - Add uniforms to your shaders through the UI.
 - Save everything.
