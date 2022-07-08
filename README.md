@@ -17,9 +17,6 @@ Right now, what it is capable of is:
 
 I am currently implementing the "community" part of it! Database, S3 to upload/download the shaders, etc. 
 
-If you like the editor please consider supporting its development and maintenance by subscribing to rhe editor patreon:
-https://www.patreon.com/kusanagi_shader_editor
-
 Here you can see some screenshots:
 
 ![Shader_1](https://user-images.githubusercontent.com/107591581/173961888-8595a8cc-b134-4a5e-89f5-be8405e5a982.png) 
@@ -32,3 +29,7 @@ Here you can see some screenshots:
 ---
 ![login](https://user-images.githubusercontent.com/107591581/177884547-2f09f26b-1a9a-42de-a9ac-b5fdff15fd70.png)
 
+##Support
+
+If you like the editor please consider supporting its development and maintenance by subscribing to the editor Patreon:
+https://www.patreon.com/kusanagi_shader_editor
