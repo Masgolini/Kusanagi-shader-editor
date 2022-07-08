@@ -29,7 +29,7 @@ Here you can see some screenshots:
 ---
 ![login](https://user-images.githubusercontent.com/107591581/177884547-2f09f26b-1a9a-42de-a9ac-b5fdff15fd70.png)
 
-##Support
+## Support
 
 If you like the editor please consider supporting its development and maintenance by subscribing to the editor Patreon:
 https://www.patreon.com/kusanagi_shader_editor
