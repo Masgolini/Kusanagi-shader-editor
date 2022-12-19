@@ -14,8 +14,10 @@ Right now, what it is capable of is:
 - Add more framebuffers to your shader. It will automatically pass the output texture of the previous frame buffer to the next one.
 - Load images as uniforms.
 - A console for debugging the code.
-
-I am currently implementing the "community" part of it! Database, S3 to upload/download the shaders, etc. 
+- Create an account
+- Publish shaders
+- Download other's shaders
+- No need for an account if you do not want one (you won't be  able to publish your work though)
 
 Here you can see some screenshots:
 
